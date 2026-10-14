@@ -1,6 +1,6 @@
           ### Hi there, i'am Victor 👋
 
-- 🔭 I’m currently working on at CRtech Computing
+- 🔭 I’m currently working on at Triunfo Transbrasiliana.
 - 🌱 I’m currently learning Javascript, Node.js and Software Testing.
 - 📫 How to reach me: victor.souza37@outlook.com
 
